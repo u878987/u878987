@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @u878987
+- 👋 Hi, I’m Juimin Li
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning css , js , htm
+- 🌱 I’m currently learning HTML JavaScript, Jquery
 - 📫 How to reach me u878987@gmail.com
 
 <!---
