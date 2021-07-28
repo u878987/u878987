@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Juimin Li
 - 👀 I’m interested in javascript
-- 🌱 I’m currently learning HTML JavaScript, Jquery
+- 🌱 I’m currently learning HTML CSS JavaScript, Jquery
 - 📫 How to reach me u878987@gmail.com
 
 <!---
